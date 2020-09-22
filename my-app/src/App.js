@@ -75,7 +75,6 @@ function App() {
 				>
 					{running ? "Stop" : "Start"}
 				</button>
-				<button>Pause</button>
 				<button>Reset</button>
 				<button>Randomize</button>
 			</div>
