@@ -113,17 +113,18 @@ function App() {
 						<div className="speed">
 							<button
 								onClick={() => {
-									timer -= 100;
-								}}
-							>
-								faster
-							</button>
-							<button
-								onClick={() => {
 									timer += 100;
 								}}
 							>
 								slower
+							</button>
+
+							<button
+								onClick={() => {
+									timer -= 100;
+								}}
+							>
+								faster
 							</button>
 						</div>
 					</div>
