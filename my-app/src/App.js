@@ -90,6 +90,7 @@ function App() {
 						<button
 							onClick={() => {
 								setGrid(generateEmptyGrid());
+								generation = 0;
 							}}
 						>
 							Clear
