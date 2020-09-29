@@ -5,7 +5,7 @@ import "./App.css";
 const numRows = 40;
 const numCols = 50;
 let generation = 0;
-let timer = 1000;
+let timer = 1;
 
 const operations = [
 	[0, 1],
@@ -159,7 +159,9 @@ function App() {
 					</div>
 				</div>
 				<div
+					className="intro"
 					style={{
+						backgroundColor: "white",
 						display: "grid",
 						gridTemplateColumns: `repeat(${numCols}, 20px)`,
 					}}
