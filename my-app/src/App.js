@@ -2,8 +2,8 @@ import React, { useState, useCallback, useRef } from "react";
 import produce from "immer";
 import "./App.css";
 
-const numRows = 40;
-const numCols = 50;
+const numRows = 30;
+const numCols = 40;
 let generation = 0;
 let timer = 1;
 
