@@ -2,7 +2,35 @@
 	text-align: center;
 	margin-top: 1em;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
+}
+
+h1 {
+	margin: 0 auto;
+	padding: 2rem;
+	font-size: 3rem;
+}
+
+.about {
+	text-align: left;
+	width: 40rem;
+	margin-right: 1rem;
+}
+
+.game-container {
+	display: flex;
+	justify-content: center;
+}
+
+.buttons {
+	padding-right: 2rem;
+}
+
+button {
+	margin: 1rem;
+	font-size: 1.1rem;
+	font-weight: 600;
 }
 
 .App-logo {
