@@ -2,8 +2,6 @@
 
 You can find the deployed project at (https://jt-cgol.netlify.app/)
 
-
-
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
@@ -125,3 +123,4 @@ Remember that this project is licensed under the MIT license, and by submitting 
 ### Attribution
 
 These contribution guidelines have been adapted from [this good-Contributing.md-template](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
+
