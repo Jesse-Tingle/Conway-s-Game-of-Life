@@ -1,5 +1,5 @@
 # Conway’s Game of Life
-🔗 Live Demo (https://jt-cgol.netlify.app/)
+## 🔗 Live Demo (https://jt-cgol.netlify.app/)
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
@@ -9,13 +9,13 @@
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-🧠 Overview
+## 🧠 Overview
 
 This project is an interactive implementation of Conway’s Game of Life, a classic cellular automaton that demonstrates how complex patterns can emerge from simple rules.
 
 The application allows users to create custom starting states and watch how patterns evolve over time based on deterministic rules.
 
-✨ Features
+## ✨ Features
 
 Interactive grid with clickable cells to create custom patterns
 Play / pause simulation controls
@@ -24,7 +24,7 @@ Generation counter to track simulation progress
 Dynamic state updates based on Conway’s rules
 Configurable simulation speed (if implemented or planned)
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 Each cell in the grid exists in one of two states:
 
@@ -42,14 +42,14 @@ Reproduction: A dead cell with exactly 3 neighbors becomes alive
 
 The application uses double buffering to calculate the next generation without mutating the current state.
 
-🏗️ Tech Stack
+## 🏗️ Tech Stack
 
 React
 JavaScript
 CSS
 Netlify (deployment)
 
-🧩 Key Challenges & Solutions
+## 🧩 Key Challenges & Solutions
 
 Efficient Grid Updates
 
@@ -66,14 +66,14 @@ Simulation Timing
 Ensuring smooth and consistent updates.
 Solution: Used timed intervals to control generation updates and allow user interaction (start/stop).
 
-📚 What I Learned
+## 📚 What I Learned
 
 How to model complex systems using simple rules
 Managing state in dynamic, real-time applications
 Structuring logic-heavy applications for readability and scalability
 Breaking down algorithms into maintainable helper functions
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Adjustable grid size
 Pattern presets (glider, oscillators, etc.)
@@ -81,14 +81,14 @@ Click-and-drag cell drawing
 Performance optimizations for larger grids
 Mobile UX improvements
 
-🛠️ Installation
+## 🛠️ Installation
 
 Clone the repo and install dependencies:
 
 npm install
 npm start
 
-📌 Why This Project Matters
+## 📌 Why This Project Matters
 
 This project demonstrates my ability to:
 
@@ -97,7 +97,7 @@ Manage complex state updates in React
 Build interactive, user-driven simulations
 Write clean, modular, and maintainable code
 
-📄 License
+## 📄 License
 
 MIT
 
