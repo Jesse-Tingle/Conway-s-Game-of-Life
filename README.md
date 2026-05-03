@@ -3,7 +3,7 @@
 
 ## 🎬 Preview
 
-(.src/img/cgol.gif)
+![Preview](./my-app/src/img/cgol.gif)
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
