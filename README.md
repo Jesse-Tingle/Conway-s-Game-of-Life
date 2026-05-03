@@ -5,7 +5,7 @@
 
 ## 🎬 Preview
 
-(.src/img/cgol-gif.mp4)
+![Game of Life Demo](.src/img/cgol-gif.mp4)
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
