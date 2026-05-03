@@ -1,6 +1,12 @@
 # Conway’s Game of Life
 ## 🔗 Live Demo (https://jt-cgol.netlify.app/)
 
+## 🎬 Preview
+
+## 🎬 Preview
+
+(.src/img/cgol-gif.mp4)
+
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
